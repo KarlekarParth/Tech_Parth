@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../PK/TechRush_webdev"
+		},
+		{
+			"path": "../edit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TechRush_webdev"
+	}
+}
